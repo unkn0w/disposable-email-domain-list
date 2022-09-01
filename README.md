@@ -1,1 +1,1 @@
-# disposable-email-domain-list
+# Disposable Email Domain List
