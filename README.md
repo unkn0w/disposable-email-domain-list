@@ -33,14 +33,6 @@ Forwarders (like anonaddy.com, icloud.com or relay.firefox.com) are just fine.
 
 Just send pull request with description, why domain should not be on the list
 
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
 ## Authors
 
 - [@unknow](https://www.github.com/unkn0w)
