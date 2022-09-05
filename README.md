@@ -8,10 +8,11 @@ The aim of the project is to allow newsletter owners to easily filter / block ju
 
 ## Files
 
-In this repository, you will find two interesting files:
+In this repository, you will find two important files:
 
 - [domains.txt](domains.txt) - list in TXT format
-- [domains.json](domains.json) - list in TXT format
+- [domains.json](domains.json) - list in JSON format
+
 ## Contributing
 
 Contributions are always welcome!
@@ -21,6 +22,7 @@ Try to add new domains to `domains.txt` file in small chunks (up to 10 domains a
 **Please always provide proof why such domain is 'spammy'!** (maybe some link to temp-mail service that offers this domain?)
 
 Please don't sort domains in alphabetic order. Just put your update at the end of the list.
+
 ## FAQ
 
 #### Can I add email forwarders to this list?
