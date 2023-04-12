@@ -3177,7 +3177,6 @@ cpc.cx
 1xp.fr
 tty.io
 e3b.org
-fou.ink
 thug.pw
 ves.ink
 new.ovh
